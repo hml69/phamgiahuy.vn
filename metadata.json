@@ -1,0 +1,6 @@
+{
+  "name": "Bảng Thông Tin Chuyển Khoản",
+  "description": "Trang thông tin thanh toán cá nhân với mã VietQR cho BIDV và link PayPal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
